@@ -1,4 +1,22 @@
-Overview
+# Lab 2 — Suricata & Zeek on Kali Purple
+* Date: 12-09-2025  
+* Environment:
+Kali Linux Purple (latest rolling release at time of lab)
+
+Kernel: Linux 6.x (Kali default)
+
+Platform: VirtualBox VM on Windows 10 Host
+
+VM Specs: 2 vCPUs, 4 GB RAM, 40 GB disk
+
+Tools Installed:
+
+Suricata (IDS/IPS)
+
+Zeek (Network analysis)
+
+Network Setup: NAT adapter (connected to internet for traffic testing)
+------
 
 This lab focused on working with Suricata (IDS/IPS) and Zeek (network analysis framework) within Kali Purple.
 I practised reading logs, creating custom rules, and understanding the difference between high-level alerts and detailed metadata.
