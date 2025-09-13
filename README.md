@@ -6,9 +6,8 @@ The goal is to build a portfolio that shows hands-on skills in real security too
 
 📚 Lab Journal
 
-Lab 1: Penetration Testing Basics
-
-Lab 2: Suricata and Zeek
+- [Lab 1: Penetration Testing Basics](lab-1-pentest.md)
+- [Lab 2: Suricata and Zeek](lab-2-suricata-zeek.md)
 
 🎯 Purpose
 
